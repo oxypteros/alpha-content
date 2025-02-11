@@ -15,7 +15,3 @@ Instead of placeholder content like *lorem ipsum*, this repository provides **pr
 If you spot any errors or issues with the demo content, or if you'd like to help with translations, your assistance is greatly appreciated!  
 Feel free to open an issue or submit a pull request with corrections, improvements, or new ideas.  
 Your contributions help improve both the theme and its content!
-
----
-
-This repository is licensed under [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/).
