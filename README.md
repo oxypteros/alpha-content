@@ -1,6 +1,6 @@
-# Content for the demo Alpha Hugo theme
+# Content for the Alpha Hugo theme
 
-This repository contains the **content** used for the [demo Alpha Hugo theme](https://alpha-demo.pages.dev/).
+This repository contains the **content** used for the [Alpha Hugo theme](https://alpha-demo.pages.dev/).
 
 Instead of placeholder content like *lorem ipsum*, this repository provides **practical guides** that explain how to set up and use various features of the Alpha theme. It also demonstrate the overall theme structure and the design options that Alpha comes with.
 
@@ -12,6 +12,6 @@ Instead of placeholder content like *lorem ipsum*, this repository provides **pr
 -   Offers *"How-to"* guides to facilitate setting up the Alpha theme and quickly understand the theme's possibilities.
 
 ## Contributions & Help
-If you spot any errors or issues with the demo content, or if you'd like to help with translations, your assistance is greatly appreciated!  
+If you spot any errors or issues with the content, or if you'd like to help with translations, your assistance is greatly appreciated!  
 Feel free to open an issue or submit a pull request with corrections, improvements, or new ideas.  
 Your contributions help improve both the theme and its content!
