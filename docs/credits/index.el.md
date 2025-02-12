@@ -1,8 +1,7 @@
 +++
-
 date = 2025-02-11T10:42:15+01:00
-lastmod = 2025-02-11T10:42:15+01:00
-draft = false
+
+draft = true
 random = true
 
 title = "Eυχαριστήριες Αναφορές"

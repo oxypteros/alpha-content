@@ -1,8 +1,7 @@
 +++
-
 date = 2025-02-11T10:38:41+01:00
 lastmod = 2025-02-11T10:38:41+01:00
-draft = false
+draft = true
 random = true
 
 title = "Credits"
