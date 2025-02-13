@@ -6,7 +6,7 @@ title = "Alpha's Homepage"
 
 description = "The official Alpha theme for Hugo: Demos, documentation, and everything you need to create a beautiful, modern website. Start with Alpha and Hugo today and unleash your creativity!"
 +++
-{{< hero TITLE="Unleash your words with alpha;" SUBTITLE="A Hugo theme for storytellers, thinkers, and creators." BTN-TITLE="Download alpha" BTN-LINK="/docs/intro/" LINK-TITLE="Read the documentation" LINK="/docs/intro/" >}}
+{{< hero TITLE="Unleash your words with alpha!" SUBTITLE="A Hugo theme for storytellers, thinkers, and creators." BTN-TITLE="Download alpha" BTN-LINK="/docs/intro/" LINK-TITLE="Read the documentation" LINK="/docs/intro/" >}}
 {{< text TITLE="alpha theme" >}}
 Alpha is a Hugo theme designed for **writers**, inspired by the needs of **readers**. 
 
