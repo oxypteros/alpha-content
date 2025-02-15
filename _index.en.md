@@ -6,7 +6,7 @@ title = "Alpha's Homepage"
 
 description = "The official Alpha theme for Hugo: Demos, documentation, and everything you need to create a beautiful, modern website. Start with Alpha and Hugo today and unleash your creativity!"
 +++
-{{< hero TITLE="Unleash your words with alpha!" SUBTITLE="A Hugo theme for storytellers, thinkers, and creators." BTN-TITLE="Download alpha" BTN-LINK="/docs/intro/" LINK-TITLE="Read the documentation" LINK="/docs/intro/" >}}
+{{< hero TITLE="Unleash your words with alpha!" SUBTITLE="A Hugo theme for storytellers, thinkers, and creators." BTN-TITLE="Download alpha" BTN-LINK="/download/alpha.theme-25.2.1.zip" LINK-TITLE="Read the documentation" LINK="/docs/intro/" >}}
 {{< intro TITLE="alpha theme" >}}
 Alpha is a Hugo theme designed for **writers**, inspired by the needs of **readers**. 
 
@@ -74,6 +74,6 @@ Instead, here’s what I believe:
 
 And that's my honest perspective on why to choose alpha.
 {{< /text2>}}
-{{< cta TITLE="Need More?" BTN-TEXT="View Documentation" BTN-LINK="#demo" BTN-LABEL="" LINK-TEXT="Inner Narrations" LINK="/narrator" LINK-LABEL="Read more">}} 
-No need for a demo site, alpha is already in action right here. Explore this site, read the [decisions behind the design]( "Test") for in-depth insights, or dive under the hood on the [GitHub repo]((https://github.com/oxypteros/alpha-theme, "The GitHub repo of alpha")).
+{{< cta TITLE="Need More?" BTN-TEXT="View Documentation" BTN-LINK="/docs" BTN-LABEL="" LINK-TEXT="Inner Narrations" LINK="/narrator" LINK-LABEL="Read more">}} 
+No need for a demo site, alpha is already in action right here. Explore this site, read the [decisions behind the design](/# "Design decisions") for in-depth insights, or dive under the hood on the [GitHub repo](https://github.com/oxypteros/alpha-theme "The GitHub repo of alpha").
 {{< /cta >}}
