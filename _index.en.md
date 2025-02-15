@@ -7,11 +7,11 @@ title = "Alpha's Homepage"
 description = "The official Alpha theme for Hugo: Demos, documentation, and everything you need to create a beautiful, modern website. Start with Alpha and Hugo today and unleash your creativity!"
 +++
 {{< hero TITLE="Unleash your words with alpha!" SUBTITLE="A Hugo theme for storytellers, thinkers, and creators." BTN-TITLE="Download alpha" BTN-LINK="/docs/intro/" LINK-TITLE="Read the documentation" LINK="/docs/intro/" >}}
-{{< text TITLE="alpha theme" >}}
+{{< intro TITLE="alpha theme" >}}
 Alpha is a Hugo theme designed for **writers**, inspired by the needs of **readers**. 
 
-Whether you're a *storyteller*, *brogger* or any kind of *writer* if you ***write*** you are in the right place. 
-{{< /text >}}
+Whether you're a *storyteller*, *blogger* or any kind of *writer* if you ***write*** you are in the right place. 
+{{< /intro >}}
 {{< foundations TITLE="Build With">}}
 ## HTML5 
 **HTML5** following best practices for accessibility and SEO.
@@ -72,8 +72,8 @@ Instead, here’s what I believe:
 1. I’ve made a *"wheel"* that’s **easy to use** for everyone, creators and visitors alike. And that’s what matters most to me.
 2. I designed alpha for long, **text-heavy** journeys, because some stories and ideas deserve space to breathe and unfold.
 
-That’s my honest perspective and now we’re truly on the same page.
+And that's my honest perspective on why to choose alpha.
 {{< /text2>}}
 {{< cta TITLE="Need More?" BTN-TEXT="View Documentation" BTN-LINK="#demo" BTN-LABEL="" LINK-TEXT="Inner Narrations" LINK="/narrator" LINK-LABEL="Read more">}} 
-No need for a demo site, alpha is already in action right here. Explore this site, read the [decisions behind the design](/link "Test") for in-depth insights, or dive under the hood on the [GitHub repo](/link).
+No need for a demo site, alpha is already in action right here. Explore this site, read the [decisions behind the design]( "Test") for in-depth insights, or dive under the hood on the [GitHub repo]((https://github.com/oxypteros/alpha-theme, "The GitHub repo of alpha")).
 {{< /cta >}}
